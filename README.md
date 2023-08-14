@@ -10,7 +10,7 @@ Wine quality prediction is the process of using various techniques and models to
 <b>5.Evaluation</b><br> 
 <b>6.Contributing</b><br> 
  # Dependencies
-This project requires the following dependencies:
+This project requires the following dependencies:<br>
 <b>1.Python (>= 3.6)</b><br>
 <b>2.Pandas</b><br>
 <b>3.NumPy</b><br>
@@ -31,3 +31,18 @@ Create a new branch for your feature: git checkout -b feature-name<br>
 Make your changes and commit them: git commit -m "Add your message"<br>
 Push to the branch: git push origin feature-name<br>
 Create a pull request explaining your changes.,<br>
+<h2>🛠️ Technologies Used 🛠️  </h2>
+<ul>
+  <li>💻 Python</li>
+  <li>💻 HTML</li>
+  <li>🐼 Pandas</li>
+  <li>📊 Matplotlib</li>
+  <li>📈 Seaborn</li>
+  <li>📈 Statistics</li>
+  <li>🤖 Scikit-learn</li>
+  <li>🧠 Machine Learning</li>
+  <li>📓 Jupyter Notebook</li>
+  <li>🔗 GitHub</li>
+  <li>📊 Power BI</li>
+</ul>
+

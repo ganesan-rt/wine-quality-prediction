@@ -17,4 +17,9 @@ This project requires the following dependencies:
 <b>3.NumPy</b><br>
 <b>4.Scikit-Learn</b><br>
 [Other libraries...]
-Installation
+# Usage
+<b>1.Prepare your dataset: Download the wine quality dataset and place it in the data/ directory.</b><br>
+
+<b>2.Preprocess the data: Run the data preprocessing script to clean and prepare the dataset for training.</b><br>
+<b>3.Train the model: Run the training script to build the wine quality prediction model</b><br>
+<b>4.Make predictions: Use the trained model to predict the quality of new wines.</b><br>

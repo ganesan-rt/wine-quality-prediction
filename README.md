@@ -17,9 +17,12 @@ This project requires the following dependencies:
 <b>3.NumPy</b><br>
 <b>4.Scikit-Learn</b><br>
 [Other libraries...]
-# Usage
+# USAGE
 <b>1.Prepare your dataset: Download the wine quality dataset and place it in the data/ directory.</b><br>
-
 <b>2.Preprocess the data: Run the data preprocessing script to clean and prepare the dataset for training.</b><br>
 <b>3.Train the model: Run the training script to build the wine quality prediction model</b><br>
 <b>4.Make predictions: Use the trained model to predict the quality of new wines.</b><br>
+ # MODEL
+Describe the model architecture and algorithm used for wine quality prediction. You can provide details about the chosen algorithm, its hyperparameters, and any specific considerations taken during model development.
+ # EVALUATION
+Explain how the model's performance is evaluated. Mention the evaluation metrics used (e.g., Mean Squared Error, Accuracy), and provide insights into the model's accuracy and limitations.

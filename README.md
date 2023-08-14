@@ -43,6 +43,9 @@ Create a pull request explaining your changes.,<br>
   <li>🧠 Machine Learning</li>
   <li>📓 Jupyter Notebook</li>
   <li>🔗 GitHub</li>
-  <li>📊 Power BI</li>
 </ul>
+<h2>🏁 Project Status 🏁 </h2>
+
+* The project has reached completion, successfully meeting the predefined goals and purposes.
+* All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation.
 

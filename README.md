@@ -3,7 +3,7 @@
 # OBJECTIVE
 Wine quality prediction is the process of using various techniques and models to assess the quality of wine based on its chemical and sensory characteristics. This involves analyzing different attributes of the wine, such as its chemical composition, physical properties, and sensory properties.
 # TABLE OF CONTENTS
-<b>1.Dependencies<b>
+<b>1.Dependencies<b><br>
 <b>2.Installation</b><br> 
 <b>3.Usage</b><br> 
 <b>4.Model</b><br> 
@@ -26,8 +26,8 @@ Describe the model architecture and algorithm used for wine quality prediction. 
  # EVALUATION
 Explain how the model's performance is evaluated. Mention the evaluation metrics used (e.g., Mean Squared Error, Accuracy), and provide insights into the model's accuracy and limitations.
 # CONTRIBUTING
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name
-Make your changes and commit them: git commit -m "Add your message"
-Push to the branch: git push origin feature-name
-Create a pull request explaining your changes.
+Fork the repository.<br>
+Create a new branch for your feature: git checkout -b feature-name<br>
+Make your changes and commit them: git commit -m "Add your message"<br>
+Push to the branch: git push origin feature-name<br>
+Create a pull request explaining your changes.,<br>
